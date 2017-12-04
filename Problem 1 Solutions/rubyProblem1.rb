@@ -22,4 +22,3 @@ for num in  1..999
   end
 end
 puts total
-    
