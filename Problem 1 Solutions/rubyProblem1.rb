@@ -10,3 +10,16 @@ end
 muls.each { |vFromArray| puts vFromArray} #reads out each value in the array called "muls"
 muls.each { |vFromArray| tot = tot + vFromArray} #reads out each value in the array called "muls"
 puts tot
+
+#-----------------------------------------------------------------------------------------------------------------------------------------#
+# or much more simply (i only did it that way to be ind of challenging)
+
+total = 0
+
+for num in  1..999
+  if num % 3 == 0 || num % 5 == 0
+    total = total + num
+  end
+end
+puts total
+    
