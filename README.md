@@ -3,4 +3,3 @@ A repository of solutions to project Euler problems created in a number of diffe
 
 I have only written c++ for the first two problems as i have very limited experience with it. if you would like to contibute a C++ (or any other language) solution for any problem please contact me at lorne123barnaby@gmail.com and you will be given full credit
 
-I have also found that node.js runs remarkably slower than python or ruby, which are perhaps the two lanugaes i would most recommend for this sort of thing although the other languages have uses that they are much better suited to than mathematical calculations
