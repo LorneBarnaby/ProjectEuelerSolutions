@@ -28,7 +28,6 @@ namespace p3cs
                 if(n % i == 0)
                 {
                     divisors.Add(i);
-                    //Console.WriteLine(i);
                 }
             }
         }
