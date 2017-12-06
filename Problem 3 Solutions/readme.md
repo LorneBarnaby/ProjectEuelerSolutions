@@ -1,0 +1,1 @@
+due to this problem taking some serious computing power it has only been written in four languages (javascript, ruby, python and C#), I apologize and hope you can figure it out in your language of choice from what as already been written
