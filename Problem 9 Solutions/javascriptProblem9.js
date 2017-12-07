@@ -16,7 +16,6 @@ for(let a = 1; a <= needsToEqual; a++){
     }
   }
 console.log(answer);
-//outputs "31875000" CORRECT
 
 function findC(a,b){
   cSQ = Math.pow(a, 2) + Math.pow(b, 2);

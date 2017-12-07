@@ -1,6 +1,5 @@
 import math
 hastoequal = 1000
-answer = 90
 
 def addABCValues(aVal, bVal, cVal):
     if(((aVal + bVal + cVal) == 1000)):
